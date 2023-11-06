@@ -1,0 +1,12 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    /* background-color: crimson; */
+    background-color: #000;
+    /* bottom: 0; */
+    /* position: fixed; */
+    gap: 20px;
+    color: #fff;
+}
