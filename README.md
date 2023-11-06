@@ -1,6 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Paul Leonardo
+Live Link: [https://23fall-n320-homework-1-paul-leonardos-projects.vercel.app/](https://23fall-n320-homework-1-paul-leonardos-projects.vercel.app/)
 
 ## Getting Started
+
 
 First, run the development server:
 
