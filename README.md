@@ -1,5 +1,5 @@
 # Paul Leonardo
-Live Link: [https://23fall-n320-homework-2-paul-leonardos-projects.vercel.app/home](https://23fall-n320-homework-2-paul-leonardos-projects.vercel.app/home)
+Live Link: [https://23fall-n320-homework-2-paul-leonardos-projects.vercel.app/](https://23fall-n320-homework-2-paul-leonardos-projects.vercel.app/)
 
 ## Getting Started
 
