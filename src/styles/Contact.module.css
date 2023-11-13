@@ -1,5 +1,16 @@
+.contactPage{
+    height: 75vh;
+    width: 100%;
+}
+
 .form{
     padding: 8px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .formField{
@@ -12,4 +23,43 @@
     width: 400px;
     height: 40px;
     padding: 4px;
+}
+
+.btn{
+    padding: 20px 30px;
+    text-decoration: none;
+    color: #fff;
+    background-color: lightskyblue;
+    border: none;
+    cursor: pointer;
+    /* outline: 2px solid black; */
+}
+
+.btn:hover{
+    background-color: rgb(83, 173, 230);
+}
+
+.buttons{
+    padding: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.contactSuccess{
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.successBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 300px;
+    min-height: 100px;
+    background-color: lightgreen;
+    padding: 40px;
 }
