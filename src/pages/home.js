@@ -8,7 +8,6 @@ export default function Home(){
   return (
     <>
       <div className={styles.siteContainer}>
-        <Navbar />
         <h1 className={styles.title}>Home Page</h1>
         <div className={styles.cardHolder}>
           <Card
@@ -50,7 +49,6 @@ export default function Home(){
           
         </div>
       </div>
-        <Footer/>
     </>
   )
 }
